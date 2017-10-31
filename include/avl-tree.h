@@ -57,9 +57,7 @@ class avltree {
      private:  
        friend class avltree<Key, Value>;             
 
-       Node *parent; /* parent is only used for navigation of the tree. It does not own the memory
-                           it points to. */
-    
+       Node *parent; /* parent is only used for navigation of the tree. It does not own the memory it points to. */
     
        KeyValue keys_value; 
        
