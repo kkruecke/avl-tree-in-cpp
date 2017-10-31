@@ -1,0 +1,9 @@
+project.xml
+Makefile
+dist/
+docs/
+build/
+nbproject/
+*.pdf
+new.txt
+out*.txt
